@@ -1,8 +1,8 @@
-https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+Miguel Grinberg's Tutorial: https://learn.miguelgrinberg.com/
 
-- [x] Chapter 1: Hello, World!
-- [x] Chapter 2: Templates
-- [ ] Chapter 3: Web Forms (this article)
+- [x] Chapter 1: [Hello, World!](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+- [x] Chapter 2: [Templates](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-ii-templates)
+- [ ] Chapter 3: [Web Forms](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-iii-web-forms)
 - [ ] Chapter 4: Database
 - [ ] Chapter 5: User Logins
 - [ ] Chapter 6: Profile Page and Avatars
